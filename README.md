@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vridhi Chaudhary</h1>
+<h1 align="center">Heyyy, I'm Vridhi Chaudhary</h1>
 <h3 align="center">An aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **Backend development and advanced DSA topics**
@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vridhi-chaudhary-b6880b317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vridhi-chaudhary-b6880b317/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/vridhi05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/vridhi05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/vridhichaudhary05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/vridhichaudhary05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/vridhichaudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/vridhichaudhary/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vridhi-chaudhary-b6880b317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vridhi-chaudhary-b6880b317" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vridhi05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vridhi05" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/vridhichaudhary05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vridhichaudhary05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vridhichaudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vridhichaudhary" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
