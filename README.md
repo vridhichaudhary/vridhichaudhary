@@ -1,5 +1,6 @@
 <h1 align="center">Heyyy, I'm Vridhi Chaudhary</h1>
 
+
 - 🌱 I’m currently learning **Backend development and advanced DSA topics**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-2-0-three-taupe.vercel.app](https://portfolio-2-0-three-taupe.vercel.app)
