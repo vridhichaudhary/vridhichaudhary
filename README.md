@@ -1,5 +1,4 @@
 <h1 align="center">Heyyy, I'm Vridhi Chaudhary</h1>
-<h3 align="center">An aspiring Web Developer</h3>
 
 - 🌱 I’m currently learning **Backend development and advanced DSA topics**
 
