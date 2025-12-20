@@ -3,11 +3,8 @@
 
 - 🌱 I’m currently learning **Backend development and advanced DSA topics**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-2-0-three-taupe.vercel.app](https://portfolio-2-0-three-taupe.vercel.app)
-
 - 📫 How to reach me **vridhichaudhary05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nLr_nu90qqSDLwpkzfJqmXTsWHqNHra1/view?usp=sharing](https://drive.google.com/file/d/1nLr_nu90qqSDLwpkzfJqmXTsWHqNHra1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
