@@ -1,7 +1,7 @@
 <h1 align="center">Heyyy, I'm Vridhi Chaudhary</h1>
 
 
-- 🌱 I’m currently learning **Backend development and advanced DSA topics**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me **vridhichaudhary05@gmail.com**
 
