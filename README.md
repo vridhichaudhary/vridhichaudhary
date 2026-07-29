@@ -103,14 +103,15 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vridhichaudhary&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C6A6E8&icon_color=A8A5E8&text_color=FFFFFF&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=vridhichaudhary&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=C6A6E8&icon_color=A8A5E8&text_color=FFFFFF"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vridhichaudhary&layout=compact&hide_border=true&bg_color=0D1117&title_color=C6A6E8&text_color=FFFFFF&border_radius=12"/>
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vridhichaudhary&layout=compact&hide_border=true&bg_color=00000000&title_color=C6A6E8&text_color=FFFFFF"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=vridhichaudhary&hide_border=true&background=0D1117&ring=C6A6E8&fire=A8A5E8&currStreakLabel=E4B6D8&sideLabels=FFFFFF&dates=BBBBBB&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=vridhichaudhary&hide_border=true&background=00000000&ring=C6A6E8&fire=A8A5E8&currStreakLabel=E4B6D8&sideLabels=FFFFFF&dates=BBBBBB&sideNums=FFFFFF&currStreakNum=FFFFFF"/>
 
+</div>
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vridhichaudhary&bg_color=0D1117&color=E4B6D8&line=C6A6E8&point=89A8FF&area=true&area_color=A8A5E8&hide_border=true"/>
